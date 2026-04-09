@@ -55,7 +55,7 @@ adas-ros/
 If you are new to Git submodules, clone with:
 
 ```bash
-git clone --recurse-submodules <your-repo-url>
+git clone --recurse-submodules https://github.com/SrabanMondal/adas-ros.git
 cd adas-ros
 ```
 
