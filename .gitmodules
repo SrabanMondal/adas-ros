@@ -1,0 +1,6 @@
+[submodule "adas-server"]
+	path = adas-server
+	url = https://github.com/SrabanMondal/edge-adas.git
+[submodule "adas-client"]
+	path = adas-client
+	url = https://github.com/SrabanMondal/adas-ros-client.git
